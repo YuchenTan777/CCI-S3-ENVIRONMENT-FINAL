@@ -65,7 +65,7 @@ AR music (touch screen, clicking objects on screen)
 When the recognition map is scanned, a virtual button will appear next to each character. Touching these buttons on the phone can trigger different notes🎵 to play the song.
 
 Here's the [code](https://github.com/YuchenTan777/CCI-S3-ENVIRONMENT-FINAL/tree/main/AR%20music/code)
-Here's the video
+Here's the [video](https://youtu.be/Qmi9H6-QOpg)
 
 ![image](https://github.com/YuchenTan777/CCI-S3-ENVIRONMENT-FINAL/blob/main/image/IMG_1772.jpg)
 
@@ -74,7 +74,7 @@ Here's the video
 When scanning the recognition map, three AR virtual buttons will appear to simulate different test answers, and choosing different answers will trigger different scene models.
 
 Here's the [code](https://github.com/YuchenTan777/CCI-S3-ENVIRONMENT-FINAL/tree/main/AR%20quiz/code)
-Here's the video
+Here's the [video](https://youtu.be/c0Vn9X8ESlc)
 
 ![image](https://github.com/YuchenTan777/CCI-S3-ENVIRONMENT-FINAL/blob/main/image/IMG_1779.jpg)
 
@@ -103,6 +103,7 @@ Finally, there is a user experience map with the addition of app and sign boards
 ![image](https://github.com/YuchenTan777/CCI-S3-ENVIRONMENT-FINAL/blob/main/image/final%20pre.030.jpeg)
 
 Here's my video link: https://youtu.be/keB-niSRZHY
+
 Here's my app video link: https://youtu.be/88PYV74nFyI
 
 
