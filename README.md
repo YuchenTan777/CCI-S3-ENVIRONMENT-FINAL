@@ -60,6 +60,8 @@ In the process of using the app, usera often encounter some glitches, then there
 
 ### 1.2 AR Design
 
+Here I mainly applied Unity+Vuforia for implementation
+
 AR music (touch screen, clicking objects on screen)
 
 When the recognition map is scanned, a virtual button will appear next to each character. Touching these buttons on the phone can trigger different notes🎵 to play the song.
