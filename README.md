@@ -106,4 +106,7 @@ Here's my video link: https://youtu.be/keB-niSRZHY
 
 Here's my app video link: https://youtu.be/88PYV74nFyI
 
+You can see my whole design process in my blog!
+https://tanyuchentyc.wixsite.com/website/blog/categories/futurelearn-courses
+
 
