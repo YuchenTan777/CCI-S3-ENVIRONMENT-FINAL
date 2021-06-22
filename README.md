@@ -102,4 +102,7 @@ Finally, there is a user experience map with the addition of app and sign boards
 
 ![image](https://github.com/YuchenTan777/CCI-S3-ENVIRONMENT-FINAL/blob/main/image/final%20pre.030.jpeg)
 
+Here's my video link: https://youtu.be/keB-niSRZHY
+Here's my app video link: https://youtu.be/88PYV74nFyI
+
 
